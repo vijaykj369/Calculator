@@ -26,14 +26,6 @@ A simple and user-friendly Calculator Application built completely using **Java 
 - Java JDK 8 or higher
 - Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans, VS Code)
 
-## ▶️ How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/calculator.git
-cd calculator
-
 🧠 Working Principle
 
 The application uses:
@@ -48,3 +40,11 @@ ActionListener
 ActionEvent
 
 When a button is clicked, an event is triggered and the corresponding arithmetic operation is performed. The result is displayed in the calculator screen.
+
+## ▶️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/calculator.git
+cd calculator
